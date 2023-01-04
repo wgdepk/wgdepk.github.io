@@ -20,4 +20,6 @@ h4{background-color:rgb(224, 122, 27);
 	border-radius:10px 10px 10px 10px;/* 左上 右上 左下 右下 */
 	border:solid 1px #CD9A47;
 }
-.grayback{background-color:gainsboro;}
+.grayback{background-color:gainsboro;
+	border-radius:10px 10px 10px 10px;/* 左上 右上 左下 右下 */
+}

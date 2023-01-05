@@ -6,7 +6,7 @@ h3{background-color:AntiqueWhite;
 	width: 800;
 	height: 60;
 	text-align: left;
-	line-height: 90px;
+	line-height: 60px;
 	border-radius:10px 10px 10px 10px;/* 左上 右上 左下 右下 */
 	border:solid 1px #CD9A47;
 }
@@ -16,7 +16,7 @@ h4{background-color:rgb(224, 122, 27);
 	width: 800;
 	height: 60;
 	text-align: left;
-	line-height: 90px;
+	line-height: 40px;
 	border-radius:10px 10px 10px 10px;/* 左上 右上 左下 右下 */
 	border:solid 1px #CD9A47;
 }

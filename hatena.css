@@ -1,5 +1,7 @@
 @charset "utf-8";
-
+html{
+  scroll-behavior: smooth;
+}
 h3{background-color:AntiqueWhite;
 	color:Tomato;
 	font-size:1.5rem;
